@@ -1,0 +1,218 @@
+{
+    "status_code": 200,
+    "message": "success",
+    "data": [
+        {
+            "sub_cate_list": [
+                {
+                    "name": "烹饪锅具",
+                    "tag_id": "d5cc519d9a1e45d889d8de544c5725bc",
+                    "thumbnail": "http://img1.ujipin.com/982d6fcf5c293d0587c1b84d78e9a464?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=ojtNWFcJAKzmUXBzAQopLXiFqSg=&format=PNG"
+                },
+                {
+                    "name": "厨房工具",
+                    "tag_id": "e8d4f5836c2640ee86204b58f76f4ce7",
+                    "thumbnail": "http://img1.ujipin.com/1c9ff9b9f0a326a1b680818f0aec72d9?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=BmDNN74SrqZb+udm/+uUyZ6GOiY=&format=JPEG"
+                },
+                {
+                    "name": "厨房电器",
+                    "tag_id": "efa6c9bd35ea402a9b648e5dfb03dabf",
+                    "thumbnail": "http://img1.ujipin.com/0ae64dcc38820d09b4e8826022d8b93f?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=1WTCPU8iM1rvI3NTT3ubCay34vc=&format=PNG"
+                },
+                {
+                    "name": "餐具桌面",
+                    "tag_id": "68d53b1f55044c659aae0de7c3fab785",
+                    "thumbnail": "http://img1.ujipin.com/5f40ba88f366a229abcc4fb1c4d4fc45?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=nwedtNBnYdjTNzz19ANwROTfu5I=&format=PNG"
+                },
+                {
+                    "name": "水具酒具",
+                    "tag_id": "482e0447f39d4a5aa9fc42999bf2839c",
+                    "thumbnail": "http://img1.ujipin.com/19e384d28d7ec30d2255e1d14fd3c7d8?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=d9Vve8TWMSkYx4YLvxVGPlMob9M=&format=PNG"
+                },
+                {
+                    "name": "咖啡茶具",
+                    "tag_id": "61f274a67c214482a623e345174f3273",
+                    "thumbnail": "http://img1.ujipin.com/6e56b9893be98ed6f8a7b7c0a06a3016?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=R5b3d4aJUnDJQL1SPHBroVztCvA=&format=JPEG"
+                },
+                {
+                    "name": "烘焙烧烤",
+                    "tag_id": "66dc97276ef2482a81c9e7cb890f3fcc",
+                    "thumbnail": "http://img1.ujipin.com/ebe4a94acc1fb6466fceea1392e46ea5?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=I5CjyktdNVwNE3smk8GoUOSBqTA=&format=PNG"
+                },
+                {
+                    "name": "吃货专列",
+                    "tag_id": "b69c34a364bb48329d03b4ec575134fc",
+                    "thumbnail": "http://img1.ujipin.com/1a1fc015a12514ef94d392aa10acbd09?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=r6iqtctXCNn2Zm0CaKVQb6B5+dU=&format=PNG"
+                }
+            ],
+            "name": "美味餐厨",
+            "tag_id": "8e630bd16b16438e82089e5dc8e9ebba"
+        },
+        {
+            "sub_cate_list": [
+                {
+                    "name": "家纺",
+                    "tag_id": "021ae49a7b954fb7898224801961cb33",
+                    "thumbnail": "http://img1.ujipin.com/bdd545f00e8815515db5cfe6766bf34c?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=X6mF7ab/0noNL2HhaVlCeGS62P8=&format=PNG"
+                },
+                {
+                    "name": "装饰",
+                    "tag_id": "5502bc16ef2a49bcb8f3a85957bcc485",
+                    "thumbnail": "http://img1.ujipin.com/40c7287af5567d63c24c4256054ff683?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=MslCagAjVqvmaNfSK46r1CPFUfc=&format=JPEG"
+                }
+            ],
+            "name": "家纺家饰",
+            "tag_id": "cf845e092ec14640a904fa73d3c7eac9"
+        },
+        {
+            "sub_cate_list": [
+                {
+                    "name": "清洁",
+                    "tag_id": "920e97705d0c47f0895b86fc5ef9cd81",
+                    "thumbnail": "http://img1.ujipin.com/e4daefa762c791033862037d817773f7?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=6PEYPSIbkk0rWYRZ9/2kMr/OWXU=&format=PNG"
+                },
+                {
+                    "name": "收纳",
+                    "tag_id": "8f1ec9c5cf214c68a5bd03d8f89ab5bb",
+                    "thumbnail": "http://img1.ujipin.com/1bd942e756922c69abbd65f0261da05e?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=uVFNxugtaF+mn/O6u2RGiM/tQf8=&format=PNG"
+                },
+                {
+                    "name": "雨具",
+                    "tag_id": "3929e24e42d64576846b6fd94148f33f",
+                    "thumbnail": "http://img1.ujipin.com/4320b69d1bd7ec9d3777b1b538ede351?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=4+ML0mq7meDfhwXqbYIRApVDDPA=&format=PNG"
+                },
+                {
+                    "name": "浴室",
+                    "tag_id": "2148aa04b9824565abc176daada602b1",
+                    "thumbnail": "http://img1.ujipin.com/16cc7a62b12bab303c5325fa6582268a?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=f1bwzv0zsfA1NNZyYeYwPavyOfY=&format=PNG"
+                },
+                {
+                    "name": "生活电器",
+                    "tag_id": "977b67514d4645d28c5be7982030c62a",
+                    "thumbnail": "http://img1.ujipin.com/2bb0a2d16bb108fe93f0bbf0ca4cc427?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=SAvGFEZsVLXB4GmiUXofVAHMVyI=&format=PNG"
+                },
+                {
+                    "name": "颈枕口罩",
+                    "tag_id": "f04b6c6db7ed4cf7a9402cf57f700bf0",
+                    "thumbnail": "http://img1.ujipin.com/076de4b35d4a01aad71ee27c6ee4363b?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=wyMArIYXpj3hSyiS4GfZgXOfvy8=&format=PNG"
+                },
+                {
+                    "name": "宠物用品",
+                    "tag_id": "868fb93c60374527bca6604563fcedb6",
+                    "thumbnail": "http://img1.ujipin.com/14f04d5153f5282b6ddf49a8fd532cbf?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=2BJjaXVteaPrn0P5ujandS4v3IY=&format=JPEG"
+                },
+                {
+                    "name": "保暖防护",
+                    "tag_id": "9a7cb83cf04049b78b83ed906cc6dfd5",
+                    "thumbnail": "http://img1.ujipin.com/bf1806df3245489ee721ca810c859516?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=rvGNpg/EKFjTP3EH4yDErTHtyGU=&format=JPEG"
+                },
+                {
+                    "name": "旅游外出",
+                    "tag_id": "5a8b2fc067b14cf2a5ed4a5d456867e1",
+                    "thumbnail": "http://img1.ujipin.com/7ea7baa5f341b5f5b64498bdde1214a3?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=O5ApHk9ct+D0p3QEpe7+DrjRuGQ=&format=JPEG"
+                }
+            ],
+            "name": "生活日用",
+            "tag_id": "6553dd8fa8044db58a35ee25874d5e5c"
+        },
+        {
+            "sub_cate_list": [
+                {
+                    "name": "口腔护理",
+                    "tag_id": "44bb337198d340b78865832677430ff1",
+                    "thumbnail": "http://img1.ujipin.com/fd309d447cc58fda43fc38596044c4ee?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=pcONzYfR5fhMqSyhLry+nPE7fBk=&format=JPEG"
+                },
+                {
+                    "name": "全身护理",
+                    "tag_id": "0afdb4ec51ad4efda27ca1943bc956e6",
+                    "thumbnail": "http://img1.ujipin.com/9e1bf7f8c8d35d0129c351f3e019908d?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=iEhcsOcdwZ210yKTWCLqpL2oboU=&format=JPEG"
+                },
+                {
+                    "name": "面部护理",
+                    "tag_id": "81a0d06053194f43acaca2496b3e384a",
+                    "thumbnail": "http://img1.ujipin.com/21b4ad2f99a8783886f0529d0642d876?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=I2lxq4cxGC5gIbyuwx5PjeXQ9ik=&format=JPEG"
+                },
+                {
+                    "name": "头发护理",
+                    "tag_id": "744f1253fce64676a602145ee36477cd",
+                    "thumbnail": "http://img1.ujipin.com/6286f63c61064663c5ee50e17fe7e257?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=8FixhQ8DAzj9B9En72lkqWcQS40=&format=PNG"
+                },
+                {
+                    "name": "女性护理",
+                    "tag_id": "cd97ec42698d4a799ff6c9c89e7f6ff1",
+                    "thumbnail": "http://img1.ujipin.com/a91b21417b4392341cf29e018d03a364?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=WIsbalUC+xW4a6hnpz6JX6MMRc4=&format=JPEG"
+                },
+                {
+                    "name": "纤体塑身",
+                    "tag_id": "671d02e805b94c7d844a4a05ba8e6a48",
+                    "thumbnail": "http://img1.ujipin.com/31b0ec0a1e6d3e3f663f317391f68839?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=V8sFBxN48z3wQlQ/agaTnEDT4JM=&format=JPEG"
+                },
+                {
+                    "name": "膳食补充",
+                    "tag_id": "c12515121a5a4bce974b5559a7b0276c",
+                    "thumbnail": "http://img1.ujipin.com/a17767501333daa5b2bd06589cfeb60c?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=mT1L07jllS7P2jtTmwTUQqN60ZI=&format=PNG"
+                },
+                {
+                    "name": "美容彩妆",
+                    "tag_id": "b4a7c1398ef840a7a1f02445805ff3cd",
+                    "thumbnail": "http://img1.ujipin.com/1a1fc015a12514ef94d392aa10acbd09?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=r6iqtctXCNn2Zm0CaKVQb6B5+dU=&format=PNG"
+                }
+            ],
+            "name": "健康美体",
+            "tag_id": "c499966af7ac48fe9fdafbc5abda7d7d"
+        },
+        {
+            "sub_cate_list": [
+                {
+                    "name": "笔记手帐",
+                    "tag_id": "39b5d40c96d24fa5b692250f11e4bd09",
+                    "thumbnail": "http://img1.ujipin.com/8db0c6ccdae367fa2989d15adeaa3e71?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=J7MqAcXWV6EgpeF5agnVqddG3kI=&format=JPEG"
+                },
+                {
+                    "name": "书写工具",
+                    "tag_id": "73870e72246a4074b242d973012b1ec2",
+                    "thumbnail": "http://img1.ujipin.com/680ad6d6fd36d581b660482b441017e5?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=gmrQ8qchOnVlqrrtV1Vzp79pAUY=&format=JPEG"
+                },
+                {
+                    "name": "办公收纳",
+                    "tag_id": "337be421ec4c4251a23bfc6646f8903d",
+                    "thumbnail": "http://img1.ujipin.com/42c9d6e88205dbf5943fb8501b92456b?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=IOpNPwqC8W5sMdYsa/vwdNJ2yEI=&format=JPEG"
+                },
+                {
+                    "name": "贺卡包装",
+                    "tag_id": "adb0fa9f9f6a479fb5a05b6c48a876d5",
+                    "thumbnail": "http://img1.ujipin.com/e8dc86a0e9cced2b26b7f55e1dba888f?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=lrmb2A/B1BCgPbRau0WZtE2rRDA=&format=PNG"
+                },
+                {
+                    "name": "数码配件",
+                    "tag_id": "4ee4d1a8d42044969a011754575ff52f",
+                    "thumbnail": "http://img1.ujipin.com/7c944a62a9d9f8d0616125b80cefb375?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=7V0iLA9v2s4PzGvN89sMyqy/7Io=&format=JPEG"
+                },
+                {
+                    "name": "耳机/音箱",
+                    "tag_id": "01609e4f79ba4f69aad3886f9bcff11e",
+                    "thumbnail": "http://img1.ujipin.com/a025bd53e933f64515f8beed7a6353c8?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=gblniWPP6T8JFs6+NXrysaZAjx4=&format=JPEG"
+                },
+                {
+                    "name": "摄影相关",
+                    "tag_id": "fea6c11746a7478286af7d74ac4926cc",
+                    "thumbnail": "http://img1.ujipin.com/6f6664c4ad24a63bd71755be3b9cbeaa?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=fOLFqxf7Q/SsVpBx+F5otfdpSeE=&format=JPEG"
+                }
+            ],
+            "name": "文具数码",
+            "tag_id": "18e6c0aff8ed4a089513b677b2a642e7"
+        },
+        {
+            "sub_cate_list": [
+                {
+                    "name": "全球购",
+                    "tag_id": "277956fa2eb3480ab6adca1222784a57",
+                    "thumbnail": "http://img1.ujipin.com/60f19f242fe97b08282edeca26837ce3?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499322524&Signature=R13LZe32Q2ietHvOyYAEpb/HCDk=&format=PNG"
+                }
+            ],
+            "name": "全球购",
+            "tag_id": "a63aa83543664d67acc51418e5867616"
+        }
+    ],
+    "time": 1498717724
+}
