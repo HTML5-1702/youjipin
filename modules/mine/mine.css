@@ -1,1 +1,60 @@
-p{font-size: .14rem; font-weight: bold; color: #ff0;}
+#content{overflow: hidden;}
+.mine_box{width: 100%; height: 100%; color: #4f494b;}
+.mine_box a{color: #4f494b;}
+.login_box a,.register_box a{color: #fff;}
+.login_box,.register_box{width: 100%; height: 100%; background: url(../../img/login_bg.jpg) repeat-y center top; background-size: 100% auto; padding-top: .3rem; color: #fff; overflow-y: auto;}
+.login_box .back,.register_box .back{display: block; width: .36rem; height: .36rem; background: url(../../img/icon17.png) no-repeat center; background-size: 44.44444% auto; margin-left: .1rem;}
+.login-items{width: 100%; padding: .42rem .2rem 0;}
+.login-items .items{width: 100%; height: .4rem; position: relative;}
+.login-items .items span.icon{width: .32rem; height: .34rem; display: block; text-align: center; float: left;}
+.login-items .items span.icon em{width: .21rem; height: .21rem; margin-top: .13rem; display: inline-block; background: url(../../img/icon14.png) no-repeat center; background-size: 100%;}
+.login-items .items span.icon-pass em{background: url(../../img/icon15.png); background-size: 100%;}
+.login-items .items span.icon-verify em{background: url(../../img/m-sq-image-verify-code.png); background-size: 100%;}
+.login-items .items span.icon-phone em{background: url(../../img/icon29.png); background-size: 100%;}
+.login-items .input-text{width: 2.42rem; height: .31rem; padding-left: .05rem; margin-top: .08rem; border: none; border-bottom: solid 1px rgba(255,255,255,0.5); background: none; float: left; color: rgba(255,255,255,0.7);}
+.login-items .input-text::-webkit-input-placeholder{color: rgba(255,255,255,0.7);}
+.login-items .input-text::-moz-placeholder{color: rgba(255,255,255,0.7);}
+.login-items .input-text:-moz-placeholder{color: rgba(255,255,255,0.7);}
+.login-btn{width: 100%; height: .3rem; line-height: .3rem; border: none; border-radius: .05rem; margin-top: .15rem; color: #fff;}
+.login-btn-1{background: rgba(0,0,0,0.35);}
+.login-btn-2{background: #E74C3C;}
+.tips-phone{width: 100%; margin-top: .05rem; text-align: center; padding-bottom: 1rem;}
+.tips-phone a{text-decoration: underline;}
+.go_register,.go_login{margin-top: .1rem; text-align: center; font-size: .14rem;}
+.login-items .nocode {position: absolute; width: .8rem; height: .3rem; line-height: .3rem; top: .05rem; right: .15rem; color: #ff0000; font-family: Tahoma, Geneva, sans-serif; font-style: italic; font-weight: bold; text-align: center; cursor: pointer; background: #e2b4a2; font-size: .14rem; font-style: normal;}
+.login_true{display: block; width: .26rem; height: .26rem; background: url(../../img/login_false.png) no-repeat center; background-size: 100%; position: absolute; right: .15rem; top: .06rem;}
+.ts_code{right: .99rem;}
+
+.member_box{width: 100%; height: 100%; overflow-y: auto;}
+.welcome{width: 100%; height: 1.5rem; padding: .4rem 0 0 .2rem; background: url(../../img/personal_center.jpg) repeat-y center top; background-size: 100% auto;}
+.welcome .bg_img{width: .7rem; height: .7rem; float: left; border-radius: 50%; overflow: hidden; background: url(../../img/bj_img.png) repeat-y center; background-size: 100% auto;}
+.welcome .in_fo{width: 2.3rem; padding: .15rem 0 0 .3rem; float: left; line-height: .2rem;}
+.personal{border-top: solid .1rem #eee;}
+.personal li{width: 100%; height: .48rem; line-height: .48rem; border-bottom: 1px solid #E6E6E6; font-size: .14rem;}
+.personal li a{display: block; width: 100%; height: .48rem; padding-left: .2rem; position: relative;}
+.personal li span{float: right; margin-right: .4rem; color: #E74C3C;}
+.personal li span em{font-style: normal; color: #4f494b;}
+.personal li.twoLevel a:after{content: ''; position: absolute; right: .16rem; top: .12rem; width: .24rem; height: .24rem; background: url(../../img/icon09.png) no-repeat center; background-size: 30%;}
+.personal .sign_out{height: .58rem; border-top: solid .1rem #eee; border-bottom: none;}
+.personal .sign_out a{text-align: center; color: #E74C3C;}
+.f_info{text-align: center; line-height: .2rem; color: #828282; background: #eee; padding: .16rem 0 .1rem;}
+.f_info .color_red,.f_info .color_red a{color: #E74C3C;}
+
+.address_list,.edit_address{background: #F2F2F2; height: 100%; /*display: none;*/}
+.address_list ul li{line-height: .2rem; color: #4F494B; padding: .2rem .06rem .2rem .09rem; background: #fff; border-bottom: 1px solid #ccc;}
+.address_list ul li p.n_m{font-size: .15rem;}
+.address_list ul li p.n_m span{float: right;}
+.address_list ul li p.addr{font-size: .13rem;}
+.address_list ul li p.addr_default{text-align: right;}
+.sub_address{padding: .3rem 0;}
+.sub_address a{display: block; width: 1.6rem; height: .44rem; line-height: .44rem; background: #E74C3C; font-size: .15rem; margin: 0 auto; border-radius: .05rem; text-align: center; color: #fff;}
+
+.edit_address .info ul li { line-height: .33rem; background: #fff; border-bottom: 1px solid #DEDEDE; padding: .1rem; position: relative;}
+.edit_address .info ul li .login_true{top: .13rem;}
+.edit_address .info ul li input {height: .34rem; width: 100%; border: none;}
+.set_def {line-height: .4rem; font-size: 14px; color: #E74C3C; padding: .1rem .1rem 0;}
+.set_def::before {content: ""; display: inline-block; width: .2rem; height: .2rem; border-radius: 50%; border: .02rem solid #BEBDBB; vertical-align: middle; line-height: .18rem; text-align: center; font-size: .2rem; color: #BEBDBB; margin-right: .05rem;}
+.default_yes::before {content: "\25CF"; color: #E74C3C;}
+
+.regions{height: 100%; background: #fff; overflow-y: auto;}
+.regions ul li{height: .35rem; line-height: .35rem; padding-left: .25rem; border-bottom: 1px solid #dedede;}

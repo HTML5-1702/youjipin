@@ -1,0 +1,23 @@
+<div class="login_box">
+	<a href="javascript:history.go(-1);" class="back"></a>
+	<div class="login-items">
+		<form name="logimForm" novalidate>
+			<div class="items overflowHide">
+	            <span class="icon"><em></em></span>
+	            <input name="login_name" type="text" class="input-text login-mobile" placeholder="请输入账号"
+	            	ng-model="login_name" maxlength="20" required ng-pattern="/^[a-zA-Z0-9\u4e00-\u9fa5]{3,20}$/">
+	            <i class="login_true" ng-show="logimForm.login_name.$invalid && logimForm.login_name.$dirty || nameBool"></i>
+	        </div>
+	        <div class="items overflowHide">
+	            <span class="icon icon-pass"><em></em></span>
+	            <input name="login_paword" type="password" class="input-text login-passW" placeholder="请输入密码"
+	            	ng-model="login_paword" maxlength="20" required ng-pattern="/^[a-zA-Z0-9]{3,20}$/">
+	            <i class="login_true" ng-show="logimForm.login_paword.$invalid && logimForm.login_paword.$dirty"></i>
+	        </div>
+	        <input class="login-btn login-btn-1" type="submit" value="登 录" ng-click="login()">
+		</form>
+		<div class="go_register" ui-sref="mine.register">
+	        <span>没有帐号,立即注册</span><em></em>
+	    </div>
+	</div>
+</div>
