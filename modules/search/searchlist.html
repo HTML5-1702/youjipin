@@ -1,0 +1,32 @@
+<div class="search-box-2">
+	<div>
+		搜索"<span>{{searchText}}</span>"结果
+	</div>
+	<div class="goods-sort clearfix">
+		<div id="hotSort" class="act">人气排序<span></span></div>
+		<div id="priceSort">价格排序<span class="price_up_down"></span></div>
+	</div>
+</div>
+<div class="goods_list search-box-3">
+	<ul class="clearfix">
+		<li ng-repeat="i in data">
+			<div>
+				<a href="">
+					<img src="{{i.thumbnail}}" alt="" />
+				</a>
+				<div>
+					<div class="selling_point">{{i.selling_point}}</div>
+					<div class="goods_name">{{i.goods_name}}</div>
+					<div class="goods_price">
+						￥ {{i.goods_price}}
+						<span>{{i.market_price}}</span>
+					</div>
+				</div>
+			</div>
+			<div class="no_stock" ng-if="!i.product_stock_total">
+				已售罄
+			</div>
+		</li>
+	</ul>
+	<div class="loding">下拉加载更多</div>
+</div>

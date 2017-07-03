@@ -1,0 +1,42 @@
+<div class="brand">
+	<div class="brand_int">
+		<div class="brand-logo clearfix">
+			<div class="b-logo">
+				<img src="{{data.logo}}" alt="" />
+			</div>
+			<div class="b-name">
+				<p>{{data.name}}</p>
+				<div>
+					<p>
+						{{data.country}}
+						<span>{{data.position}}</span>
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="b-intro">{{data.intro}}</div>
+	</div>
+	<div class="goods_list">
+		<ul class="clearfix">
+			<li ng-repeat="i in data.goods_list">
+				<div>
+					<a href="">
+						<img src="{{i.thumbnail}}" alt="" />
+					</a>
+					<div>
+						<div class="selling_point">{{i.selling_point}}</div>
+						<div class="goods_name">{{i.goods_name}}</div>
+						<div class="goods_price">
+							￥ {{i.goods_price}}
+							<span>{{i.market_price}}</span>
+						</div>
+					</div>
+				</div>
+				<div class="no_stock" ng-if="!i.product_stock_total">
+					已售罄
+				</div>
+			</li>
+		</ul>
+		<div>没有更多了</div>
+	</div>
+</div>
