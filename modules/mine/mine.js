@@ -115,6 +115,9 @@ angular.module('mineModule',['ui.router'])
 		//地址数量加1
 		addObj[add_name].add_number += 1;
 		localStorage.setItem('memberData_hr',JSON.stringify(addObj));
+		$scope.add_show = true;
+		$scope.add2_show = false;
+		$location.path("/mine/main");
 	}
 	
 	//退出登录
