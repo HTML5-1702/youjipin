@@ -1,5 +1,7 @@
-angular.module('ujipin',['ui.router','angularCSS','homeModule','searchModule','mineModule','cartModule'])
-.config(function ($stateProvider, $urlRouterProvider) {
+angular.module('ujipin',['ui.router','angularCSS','homeModule','searchModule',
+'mineModule','cartModule','inventoryModule',
+'passModule','welfareModule','slide1Module','slide2Module','slide3Module'])
+.config(function ($stateProvider,$urlRouterProvider) {
  	$urlRouterProvider.otherwise('/home');
  	
 	$('#content').css('height',$(window).height()-$('#tab').height()+'px');
@@ -12,4 +14,4 @@ window.onload = function(){
 		var windowW = $(window).width();
 		$('html').css('font-size',parseInt(windowW/3.2)+'px');
 	}
-}
+};
