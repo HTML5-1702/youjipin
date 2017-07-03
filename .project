@@ -25,7 +25,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1498734438620</id>
+=======
+			<id>1499070502138</id>
+>>>>>>> e1656dd62e0dde13e2e016b3a2135ebd06012a7e
 			<name></name>
 			<type>26</type>
 			<matcher>

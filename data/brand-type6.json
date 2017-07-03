@@ -1,0 +1,233 @@
+{
+  "status_code": 200,
+  "message": "success",
+  "data": [
+    {
+      "cat_id": 6,
+      "brand_list": [
+        {
+          "logo": "http://img1.ujipin.com/96760358f6b8caed9f3694838fe05f09?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=7wh40xcVKkAXoRd/TzmLjUD7iFs=&format=JPEG",
+          "name": "1537",
+          "tag_id": "eff7f7d0c27542d2ac5aca1a1b932b9f"
+        },
+        {
+          "logo": "http://img1.ujipin.com/1f70a0a7c383b7949736305a7564da6e?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=4uK1eP9PrnR5ULdDo4wvEbQqR9s=&format=JPEG",
+          "name": "BAGGU",
+          "tag_id": "8fad7e0b29354108b2882d2d53344c86"
+        },
+        {
+          "logo": "http://img1.ujipin.com/ac8f78866d7454443bc35cfbeab3e435?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=Ku/FylHUN4aP4o3r7W1N4pcHm4Y=&format=JPEG",
+          "name": "Banana Umbrella蕉下 ",
+          "tag_id": "1072e0d615b649658d3142b92e0981b6"
+        },
+        {
+          "logo": "http://img1.ujipin.com/f5deba31ac6d0090cd67f397c300f7ee?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=zQeNubxejLPLfw/JqecU7fckriE=&format=JPEG",
+          "name": "Beck sonder gaard",
+          "tag_id": "fad9a201a55d438dab9b1ea18509b436"
+        },
+        {
+          "logo": "http://img1.ujipin.com/94d883e480ed0d6d2ff0f89a894229c3?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=kRdh7pzV1brdFhoMp1V4jNSkmFQ=&format=JPEG",
+          "name": "BLUNT保兰特",
+          "tag_id": "031bd671ea5f47279d4cf540a92569a7"
+        },
+        {
+          "logo": "http://img1.ujipin.com/3cda8cf0aee7a460ae355efcfb349202?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=2COfAbPZzSYSZrEvbiqGiIY8N9Q=&format=JPEG",
+          "name": "Bolsarium",
+          "tag_id": "b1f38221f22b4d4b8ffc72c60bfda080"
+        },
+        {
+          "logo": "http://img1.ujipin.com/7cd90656d3b19e10dbd5ee33ccdc2761?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=rqPnq58TNUaxSajd9QpYok9tPX0=&format=JPEG",
+          "name": "CHIHIRO",
+          "tag_id": "202f32088ef74782a5b78c797527cf0c"
+        },
+        {
+          "logo": "http://img1.ujipin.com/25b6046a8ade1775a887344e72b7d31b?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=q0HUH79Cw4RR59MmiBEJATXvHkY=&format=JPEG",
+          "name": "chooci",
+          "tag_id": "ad70732be28f409ab0aabd1c1b35ddc0"
+        },
+        {
+          "logo": "http://img1.ujipin.com/3041afd452aded3024d896bd002d21fe?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=d/qP8tcJvdKihLfm75GLGvoXGSI=&format=JPEG",
+          "name": "Cocoon",
+          "tag_id": "8e608f71225c40508e50e097af33a51b"
+        },
+        {
+          "logo": "http://img1.ujipin.com/fd8c491e2266b4c3a5c524e8243d2c46?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=8CF4YPcSJNl/2BDEufnnyF3v7dw=&format=JPEG",
+          "name": "cottonpop",
+          "tag_id": "28ea27982a8e4103ac6397fd1aae13e5"
+        },
+        {
+          "logo": "http://img1.ujipin.com/ac89df7b0de9b4ffc830df9d23d4979d?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=cccRqUcrhwnXcAGt8nF+Caz/ULg=&format=JPEG",
+          "name": "Crash Baggage",
+          "tag_id": "28c05794b92d47029c317c10f265437f"
+        },
+        {
+          "logo": "http://img1.ujipin.com/12797425b8b9ec296b25b3ce2714970f?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=BLroiX5cuzWAoDBPhtW9ICFmKy0=&format=JPEG",
+          "name": "Design go迪司傲",
+          "tag_id": "494bbbe6e1714487a283e809db79bc5c"
+        },
+        {
+          "logo": "http://img1.ujipin.com/74d79d4e8b220be669ad22be09b7d483?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=otyuBsVB4lEYUhemuymkMP32Gwk=&format=JPEG",
+          "name": "Dot Drops",
+          "tag_id": "68f49b3173884ba7b7e65144e0e03571"
+        },
+        {
+          "logo": "http://img1.ujipin.com/1029da95e660c9dc37d9b91110e86820?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=4t7iMugUE3g/UeGBuIjtPXWNxuA=&format=JPEG",
+          "name": "DQ Co",
+          "tag_id": "8b60c344c41f4940b2bd63184ef995c7"
+        },
+        {
+          "logo": "http://img1.ujipin.com/ec1a863101b1c446ec3678c8c85af040?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=UWv/r8NIu5aJJKNSg6AtKt3mX8E=&format=JPEG",
+          "name": "EuroSCHIRM",
+          "tag_id": "cd7f0c296aba483a8887480664966b4d"
+        },
+        {
+          "logo": "http://img1.ujipin.com/e16edcfad04f35a1146b72d511d59767?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=XU7eoa8vLn1OQCDOCeAdKhl4ydM=&format=JPEG",
+          "name": "Fabriano",
+          "tag_id": "b6d623283e9f40259fed216ef541204c"
+        },
+        {
+          "logo": "http://img1.ujipin.com/a36b19763ebb3e6b126eeaa83a505ba9?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=4Rtob13U1y6dbW1UvHGs+9vhJmU=&format=JPEG",
+          "name": "FALKE",
+          "tag_id": "abfc7a312c284e2186edeb4c6d49d682"
+        },
+        {
+          "logo": "http://img1.ujipin.com/e452653cf682e834091cc325b5477471?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=BDt/doyp1/8avnTHkeUKgTBY5jM=&format=JPEG",
+          "name": "Fulton富尔顿",
+          "tag_id": "4461500a829f4bb699fd590465d4c0e2"
+        },
+        {
+          "logo": "http://img1.ujipin.com/3d542873027251c3caa07fd370f94926?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=T+b6kewvCO9dTgXGKbmfPQsjCGY=&format=JPEG",
+          "name": "Giorgio Fedon 1919",
+          "tag_id": "08f0744966664554a932c716073e0697"
+        },
+        {
+          "logo": "http://img1.ujipin.com/f1b0d0436b4ac633453bca0b56035557?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=z+RRmPOwoT3muXWHLDKuZsLer8Y=&format=JPEG",
+          "name": "Gym Silky",
+          "tag_id": "dab2e7d61b87434587a99ef0d3cbbd5c"
+        },
+        {
+          "logo": "http://img1.ujipin.com/1abac7cf2ff556d1cc12b8989fc37628?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=6bpEv7hF+cE9Qp2Qhw/ifkax/kc=&format=JPEG",
+          "name": "imblu",
+          "tag_id": "cf438c03bb9b42b796b03580b7d8149e"
+        },
+        {
+          "logo": "http://img1.ujipin.com/eb467bbf18708012bb8d16058f1b6ab0?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=r3+MhK+0IjFDcWdOudHwGzRq1oM=&format=JPEG",
+          "name": "ithinkso",
+          "tag_id": "bc94daeb07ad408e9afb5464f2da9a9b"
+        },
+        {
+          "logo": "http://img1.ujipin.com/be59ba975f01dd01b0ff31fa53eddaee?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=rPUeE0jaaaMdKG2xVddZmgA1Z84=&format=JPEG",
+          "name": "kangnangkong",
+          "tag_id": "2c2ce6664c8d421cb939b35d951ad9fd"
+        },
+        {
+          "logo": "http://img1.ujipin.com/d8aa283a57b8dfdf110d2d5072f4b8fb?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=ZW/P7ZeGU/M0WjPy9lsmcFa5CCU=&format=JPEG",
+          "name": "Laurel Burch",
+          "tag_id": "5df298e045ca45198d8d843154996912"
+        },
+        {
+          "logo": "http://img1.ujipin.com/3daca931b58fa00fc7df81d08bba3775?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=Khbae2wb9uIeYr7WweOlFjaJ6NE=&format=JPEG",
+          "name": "Leah Lerner",
+          "tag_id": "ae6a265964dd44a992e9726171134762"
+        },
+        {
+          "logo": "http://img1.ujipin.com/16acdfaebcbf8619ff94db2e3d0fbcb3?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=PeDqJ8s1rFNooj6J4/jIJ+qY3Fs=&format=JPEG",
+          "name": "Liveport",
+          "tag_id": "ab19be99d5b143fb8b3063f4616c2dec"
+        },
+        {
+          "logo": "http://img1.ujipin.com/04a5629c6ef749fc8d13059c0a13766d?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=CNITz/004x4LBcFizkWdeaX3Jn8=&format=JPEG",
+          "name": "LOQI",
+          "tag_id": "9ad97385591543b28d0587ff9c624f8d"
+        },
+        {
+          "logo": "http://img1.ujipin.com/f14c9efcd6b1ffcef337f4e37e51e073?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=VhmWINUBSTawCDQzBcr7v8F3Hxs=&format=JPEG",
+          "name": "Lotosblume",
+          "tag_id": "21c0b079501d4df5bf22766bdb21c776"
+        },
+        {
+          "logo": "http://img1.ujipin.com/62ef49606cf413cc3297ab511db10b66?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=t2YguWy+h64E8HPQI5iBOufCV7c=&format=JPEG",
+          "name": "Loukin 路尔新",
+          "tag_id": "a6fbd84b098a485aa8c8f67c3a3e95a4"
+        },
+        {
+          "logo": "http://img1.ujipin.com/d0ab5cd1dfb02d6694b33e102801f74a?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=/HhZCHbV+vBltnqC80JTB7Iv5Fg=&format=JPEG",
+          "name": "旅行哲",
+          "tag_id": "f92021d79d7e40a989caa33a0b7dd93f"
+        },
+        {
+          "logo": "http://img1.ujipin.com/a2088aad874845dd16cddbaa163a48ca?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=nJIMHIoHdoWPpsTDWHG5O6yzzuc=&format=JPEG",
+          "name": "monopoly",
+          "tag_id": "a70857e92c5448bc894c46c1de3e3942"
+        },
+        {
+          "logo": "http://img1.ujipin.com/9589bed44acce18bff52138c77e54ca2?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=i7uVKWppWizrafEVZTnnYi5AT34=&format=JPEG",
+          "name": "mrkt马克兔",
+          "tag_id": "7353752b652248e6bee5a4a1e417f245"
+        },
+        {
+          "logo": "http://img1.ujipin.com/198b6160280df4d577e0d631f99ea1bc?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=ee33jXNm/+bm8ai5qFSweNwBrDg=&format=JPEG",
+          "name": "Mywalit",
+          "tag_id": "d4972fabc4f84954bbf7e95cd15e354b"
+        },
+        {
+          "logo": "http://img1.ujipin.com/1d0e9cd2e25158bb32aa97d8c17fea91?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=SiSc2Om+3mwEeenq437wtB3skxM=&format=JPEG",
+          "name": "Pombos bag",
+          "tag_id": "2996b51dddec42f9a9c7a1d470b29533"
+        },
+        {
+          "logo": "http://img1.ujipin.com/cda9000b5d3ad1961960c5b5a56152bc?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=/K+/vfon8NsgxJUcHkzYxqBLcX8=&format=JPEG",
+          "name": "Rainbow airlines",
+          "tag_id": "34e25875b26e4a6a9a82aae30eb6562d"
+        },
+        {
+          "logo": "http://img1.ujipin.com/88724b5da70a950fa42fcabeaa03e54d?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=AsHr7LGpLMAcxSX+bXyc6C5K5uQ=&format=JPEG",
+          "name": "SFumbrella",
+          "tag_id": "b828919466c14cf4a7ad968769ed4473"
+        },
+        {
+          "logo": "http://img1.ujipin.com/09421bc1f2d09c608f05ba022c555266?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=2fte+a3dSuQ2QKOR+bkuLX3I6wc=&format=JPEG",
+          "name": "SPF Company",
+          "tag_id": "6e9879a5d6554438b52c2ecdc5b80de0"
+        },
+        {
+          "logo": "http://img1.ujipin.com/9681faacc8b5845d51c84215a76e76d9?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=AtQKcr5dCa3fEA6mH8ajCjZRXAE=&format=JPEG",
+          "name": "totes",
+          "tag_id": "aa35c93cf73a435cad94c85d2014ef61"
+        },
+        {
+          "logo": "http://img1.ujipin.com/0e0f874c4115fab2105265109efa1888?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=/AclVnfKOfHfO4t6SnJvQczqhx4=&format=JPEG",
+          "name": "TUCANO",
+          "tag_id": "7c467726abd34f1b8ff3d587d37ad311"
+        },
+        {
+          "logo": "http://img1.ujipin.com/3d60480c94bf0bc01ffb3dd96ddae6be?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=tpOiJdcqDSTOSfY9zx1eebEKz20=&format=JPEG",
+          "name": "Tulisan",
+          "tag_id": "b637617532ab48b59717c8e442fb1434"
+        },
+        {
+          "logo": "http://img1.ujipin.com/5fe893902604d37c7154ff13ada4a2ce?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=PYHRjvg4Okak9fJ9QUMaQFDpVSA=&format=JPEG",
+          "name": "Unit Portables",
+          "tag_id": "f604a8d0f64e490f9f42bd56f35db72f"
+        },
+        {
+          "logo": "http://img1.ujipin.com/9a0325be34e9681962158e0405efd4f9?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=iXko2qx8kIdpwuDUsc8JRS+d3Xw=&format=JPEG",
+          "name": "W.P.C",
+          "tag_id": "776ea237246a49718d18148b65508762"
+        },
+        {
+          "logo": "http://img1.ujipin.com/7b2b420baf8023d80edb002cbde52225?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=wb0GBACZnOBN2ShwNnerWG+3S2Q=&format=JPEG",
+          "name": "维宜卡",
+          "tag_id": "1d11628d8bfb4385a6a070244f088bc3"
+        },
+        {
+          "logo": "http://img1.ujipin.com/ba946ccc4664b03e37161c1c7448fec6?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583041&Signature=dek4dFeBNUy6baUAn8g1Mrjxrpg=&format=JPEG",
+          "name": "WYQN文艺青年",
+          "tag_id": "230dd371133a447693da738be6c49a2c"
+        }
+      ],
+      "name": "旅游出行"
+    }
+  ],
+  "time": 1498978241
+}

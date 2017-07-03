@@ -1,0 +1,11 @@
+<div class="brand-all">
+	<a ui-sref="brandAll" href="">全部品牌</a>
+</div>
+<div class="brandList-item-box" ng-controller="brandSkip">
+	<div ng-repeat="i in data" class="brandList-item">
+		<p><a ui-sref="list" href="" brandList-item-data="{{i.cat_id}}" ng-click="brandListItem(i.cat_id)">{{i.name}}</a></p>
+		<div class="brandList">
+			<a tag_id="{{j.tag_id}}" ui-sref="brand" href="" ng-repeat="j in i.brand_list" ng-click="brandSkip(j.tag_id)"><img src="{{j.logo}}"/></a>
+		</div>
+	</div>
+</div>
