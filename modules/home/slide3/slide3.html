@@ -1,0 +1,28 @@
+<div id="wrap">
+    <div id="slideShow">
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><a href="#"><img src="img/slide3.jpg"></a></div>
+            </div>
+        </div>
+    </div>
+    <div class="showdetail" ng-repeat="item in object1">
+        <p class="title">{{item.name}}</p>
+        <ul class="overflowHide">
+            <li ng-repeat="item2 in item.goods_list">
+                <p><a href="#"><img src="{{item2.thumbnail}}" alt=""></a></p>
+                <p><a href="#">{{item2.selling_point}}</a></p>
+                <p><a href="#">{{item2.goods_name}}</a></p>
+                <p class="price2"><a href="#"> ￥{{item2.goods_price}}</a></p>
+                <!--<p class="add">+</p>-->
+            </li>
+        </ul>
+        <div class="last-li">
+            <div class="in-text" >
+                <p><a href="#">{{item.name}}</a></p>
+                <p><a href="#">还有20件生活好物品</a></p>
+                <p><a href="#"><i class="fa fa-arrow-circle-o-right fa-2x"></i></a></p>
+            </div>
+        </div>
+    </div>
+</div>

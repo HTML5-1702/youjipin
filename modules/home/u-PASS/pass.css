@@ -1,0 +1,7 @@
+#info{position:relative;width:3.2rem;height:1.2rem;line-height:1.2rem;background:url(../../../img/7.png)}
+#info>p{margin-left:0.2rem;font-size:0.2rem;}
+#info img{width:0.76rem;height:0.76rem;position: absolute;top:0.32rem;right:0.3rem;}
+/*#dredge{width:3.2rem;height:0.65rem;}*/
+.list-text{width:3.2rem;height:2.35rem;}
+.list-text p{height:0.6rem;width:3.2rem;background:white;font-size:0.16rem;line-height: 0.6rem;}
+.list-text img{height:1.68rem;}

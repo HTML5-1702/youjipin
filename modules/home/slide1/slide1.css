@@ -1,0 +1,10 @@
+.showdetail ul li p img{height:100%;}
+.showdetail ul li p{height:0.2rem;}
+.showdetail ul li p:last-child{padding-left:0.1rem;color:red;margin-bottom:0.1rem;position:absolute;left:0;bottom:0;}
+.last-li{position: absolute;right:0.06rem;bottom:0.05rem;border-radius:2%;background:white;width:1.48rem;height:2.5rem;display:flex;align-items: center;}
+.in-text{width:1.12rem;height:0.93rem;margin-left:0.18rem;}
+.in-text p{width:100%;height:0.3rem;line-height:0.3rem;text-align:center;}
+.in-text p:first-child{border-bottom:1px solid #828282;}
+.overflowHide li{position:relative;}
+.price2 a{color:red;position:absolute;bottom:0.1rem;}
+#wrap{width:3.2rem;height:5.2rem;overflow: auto;}

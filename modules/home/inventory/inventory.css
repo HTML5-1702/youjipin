@@ -1,6 +1,13 @@
-*{margin:0;padding:0;}
-#wrap{width:3.2rem;height:5.22rem;overflow:auto;}
-#slideShow{width:100%;height:1.6rem;}
+.swiper-slide{background:#E9F3FF;}
+#slideShow{width:100%;height:2.1rem;}
+.swiper-slide a img{width:100%;height:1.6rem;}
+#today{width:3.2rem;height:0.7rem;background:#f8f8f8;line-height:0.7rem;text-align: center;}
+#preference{width:3.2rem;height:1.3rem;background:white;display: flex;justify-content: space-between;}
+#preference img{width:1.6rem;height:100%;}
+#pre-right{width:1.5rem;height:1.3rem;line-height:1.3rem;}
+#pre-right p{width:1.5rem;height:0.18rem;}
+#pre-right p a{width:1.5rem;height:0.18rem;display: inline-block;}
+#last a{color:red;}
 #introduce-list{margin-top:0.06rem;width:100%;height:0.75rem;background:#fff;}
 #introduce-list ul{width:100%;height:0.75rem;display: flex;justify-content: space-between;}
 #introduce-list ul li{width:1rem;height:100%;}
@@ -34,4 +41,7 @@
 .in-text{width:1.12rem;height:0.93rem;margin-left:0.18rem;}
 .in-text p{width:100%;height:0.3rem;line-height:0.3rem;text-align:center;}
 .in-text p:first-child{border-bottom:1px solid #828282;}
-.price2 a{color:red;}
+.overflowHide li{position:relative;}
+.price2 a{color:red;position:absolute;bottom:0.1rem;}
+#wrap{width:3.2rem;height:5.2rem;overflow: auto;}
+/*.add{width:0.2rem;height:0.2rem;border-radius:50%;background:orangered;color:#000;position:absolute;right:0;bottom:0;}*/
