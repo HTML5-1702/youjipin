@@ -4,9 +4,9 @@
 .no-goods>img{width: 1.44rem;margin: auto;}
 .text{margin-top: 0.1rem;}
 .no-goods>a{display: inline-block;width: 1.44rem; height: 0.32rem;line-height: .32rem;background: #fff;color: #B93A2C;border: 0.01rem solid #E6E6E6;border-radius: 0.05rem;margin-top: 0.2rem;font-size: 0.14rem}
-.randomPro{width: 3.2rem;margin-top: 0.85rem;height: 1.87rem;overflow: hidden;}
-.t{color: #4F494B;font-size: .14rem;line-height: .48rem;padding-left: .16rem;border-bottom: 0.01rem solid #EDEDED;}   
-.swiper-slide img{width: 1rem;}
-.goods_name{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}    
-.goods_price{color: red;}   
-.market_price{color: #4F494B;text-decoration: line-through;}
+.randomPro{width: 3.2rem;margin-top: 0.85rem;height: 1.87rem;overflow: hidden;background: #fff;}
+.t{color: #4F494B;font-size: .14rem;line-height: .48rem;padding-left: .16rem;border-bottom: 0.01rem solid #EDEDED;background: #FFFFFF;}   
+.swiper-slide img{width: 0.7rem;height: 0.7rem;}
+.goods_name{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;height: 0.1rem;text-align: center;}    
+.goods_price{color: red;text-align: center;}   
+.market_price{color: #4F494B;text-decoration: line-through;text-align: center;}
