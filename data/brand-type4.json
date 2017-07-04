@@ -1,0 +1,273 @@
+{
+  "status_code": 200,
+  "message": "success",
+  "data": [
+    {
+      "cat_id": 4,
+      "brand_list": [
+        {
+          "logo": "http://img1.ujipin.com/d153489c8ae6fe7cf81397ea0be8e911?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=/mDr1Cm8JcRrvel13YYHCfO+CYY=&format=JPEG",
+          "name": "3 Sprouts",
+          "tag_id": "65fb39981a0f42df80f277d7a5c7bf76"
+        },
+        {
+          "logo": "http://img1.ujipin.com/88f6729c20f19f15a9a27d4925cd038e?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=1YJnJys+2UawBbLdw8/tg2itkXw=&format=JPEG",
+          "name": "atopalm爱多康",
+          "tag_id": "8ac431801ce147dd8ffa3c006637499d"
+        },
+        {
+          "logo": "http://img1.ujipin.com/7aef2656ad779186d69d15552b0a6820?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=fj9ntRarz/nVUeVOk17mLav350o=&format=JPEG",
+          "name": "Baby Ganics 甘尼克宝贝",
+          "tag_id": "1dbedfec7b184b1fbb253a09ed16472f"
+        },
+        {
+          "logo": "http://img1.ujipin.com/af7789b70112ce96cd7f1c076ea1ac2a?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=3Cj54c71JclgOFmOBKt2+4GM+jk=&format=JPEG",
+          "name": "Babymoov",
+          "tag_id": "15a27cc569404c8b94e529686b9cf641"
+        },
+        {
+          "logo": "http://img1.ujipin.com/e6d3245dab064d738d2ae846a73bbf6c?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=CfcZfQnTGfuT1Ia21Nc34g9OpS4=&format=JPEG",
+          "name": "Baby zoo",
+          "tag_id": "36ba4fd436f34f9cb178b4c21564c7ca"
+        },
+        {
+          "logo": "http://img1.ujipin.com/309cb49a35a64da92669d23d488c28da?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=iAn6lMHtha2buOpRATc8ntkrc0A=&format=JPEG",
+          "name": "Bebeconfort",
+          "tag_id": "d24bb8b121824eee9e0227be2442c035"
+        },
+        {
+          "logo": "http://img1.ujipin.com/15184fff6a1c1fef387c002f11ac0bcd?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=XtRIUTfjevMJqD9LjJexIUUmfqU=&format=JPEG",
+          "name": "Bubble",
+          "tag_id": "cddb62d34dd24ccfa9e5e5ada755685b"
+        },
+        {
+          "logo": "http://img1.ujipin.com/4132a84de49345e56ce4cc20f8fad01f?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=bEsGOkAOAVDrs70ZwR1Snpvc/t8=&format=JPEG",
+          "name": "Classic可来赛",
+          "tag_id": "c1d22b77f59348c5a302461101719b8c"
+        },
+        {
+          "logo": "http://img1.ujipin.com/53ee567670aab4e1affa3596f53a5a34?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=WT/w1X2sufzDTbZRuCJO4huRUXE=&format=JPEG",
+          "name": "Crane",
+          "tag_id": "568c154411054c6c99d958f97f0f48d6"
+        },
+        {
+          "logo": "http://img1.ujipin.com/1f9e3b797cf3b3d9e6f7bdc0ff7d5fef?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=bNcrVA3iD9e+/20OBFMhR25bEho=&format=JPEG",
+          "name": "Crocodile creek 鳄鱼谷",
+          "tag_id": "96d61f84d82246089e933a29595437d1"
+        },
+        {
+          "logo": "http://img1.ujipin.com/2853bab38ebe1832df5d3a663b906e37?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=EZdrxlBlPdgK+q6cLc7BRJXxFEo=&format=JPEG",
+          "name": "CUNA TENT",
+          "tag_id": "4b2c994ff0f2460aaf18394e0b9a2e6b"
+        },
+        {
+          "logo": "http://img1.ujipin.com/b6aacfcacc9bfb67fa6cbd6d04645efb?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=L0pFht5PHfPYwCgtOToWE0cUfc4=&format=JPEG",
+          "name": "dabba walla",
+          "tag_id": "f9118fc4f9c1428f9d6bba1c4b2456de"
+        },
+        {
+          "logo": "http://img1.ujipin.com/0dbf8a852cf32f8d91231499fe04fd16?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=lpfni/LF4Eys9l9Jrmsi+uYB+KU=&format=JPEG",
+          "name": "Drink in the Box",
+          "tag_id": "ff8e4bcfcf174d5c9b1aa1eba48354cd"
+        },
+        {
+          "logo": "http://img1.ujipin.com/2035c9c98b1d7c471a40df100375d3c5?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=RhCgFgi7ugj5g91oM6ej5hwCeio=&format=JPEG",
+          "name": "ebulobo一步两步",
+          "tag_id": "22fab3fcf2134bdd81bdae1ba482381b"
+        },
+        {
+          "logo": "http://img1.ujipin.com/d0bee19c3cbcb1e6af7e555770fa96fa?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=8B3ZU7xxE7/IfKFVOp/yNStio9U=&format=JPEG",
+          "name": "Ecoroa",
+          "tag_id": "4a273798231c4d9a9c55066c0a6bbd24"
+        },
+        {
+          "logo": "http://img1.ujipin.com/85a67c748c363cf0f98d7cc614e37bad?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=6US9sZ3r5P5d3hEq8mPqTR5G3G8=&format=JPEG",
+          "name": "EGG",
+          "tag_id": "f00151fa1fb34673bfae85360b335ab5"
+        },
+        {
+          "logo": "http://img1.ujipin.com/eae12bcead23006930c9f48b0f1c94f7?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=qLlQmlfTO3b8e9W4/ZAbhJhTBOc=&format=JPEG",
+          "name": "Episencial",
+          "tag_id": "d2d58c803428430f8708a0886fbfc07b"
+        },
+        {
+          "logo": "http://img1.ujipin.com/b9ca4c73431ee48004df4885b66b456d?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=uXIXPsE/6UtunlkelLO2MEl8jSw=&format=JPEG",
+          "name": "FRANCK & FISCHER",
+          "tag_id": "59cc5acc8d644e8aaa8d38b179a87ea7"
+        },
+        {
+          "logo": "http://img1.ujipin.com/35d7f81705cd5b4d7104f3b50e788505?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=WYTVpKhvgGJQlhhDJ7YMxAlDjh4=&format=JPEG",
+          "name": "Freds",
+          "tag_id": "f5b0be780eb74395908f74273dc74ac7"
+        },
+        {
+          "logo": "http://img1.ujipin.com/98a720e59a0dd78d3a9b1e21f73adaf2?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=DS46k3aVhp7qwkmaJd+Ep6IKr78=&format=JPEG",
+          "name": "Gifthing",
+          "tag_id": "7ef939f6f3d645f794e9f663520ed8b9"
+        },
+        {
+          "logo": "http://img1.ujipin.com/f69b7f64af6162c2a3872ea47901b0f9?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=Rtb9Pqgg/5GDTqTsza5HVEbbq7w=&format=JPEG",
+          "name": "Green Sprouts",
+          "tag_id": "ff142c13400e4c848b22230c80b84905"
+        },
+        {
+          "logo": "http://img1.ujipin.com/66c389e6c2a4ac70c609cf9ac2afd657?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=bzXSHA06vMobpSKrtImctIYnMmo=&format=JPEG",
+          "name": "Gund",
+          "tag_id": "57557ac906e84a9d85d2995dded126a2"
+        },
+        {
+          "logo": "http://img1.ujipin.com/677159d96bac268b051f4cacb884b96f?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=wM4qSOhkAQ5LZlisYZg7tyhtqiI=&format=JPEG",
+          "name": "HALO",
+          "tag_id": "3272558e7fb44f0192349a148f2cb09e"
+        },
+        {
+          "logo": "http://img1.ujipin.com/00cc44e16b77f5d6e07b1aef95d755c9?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=ZpttESWOGh7YdyoD+iQvp0Gi0hA=&format=JPEG",
+          "name": "Hugger",
+          "tag_id": "7e145554a8cc43fda0c93a011aaf21c7"
+        },
+        {
+          "logo": "http://img1.ujipin.com/4fdfcf1f82a0491c6ebc9e39965f2378?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=cmreecKUfLapUgUChyrhrNHe7MU=&format=JPEG",
+          "name": "加州宝宝",
+          "tag_id": "965835653bec48daae54b72898cb688e"
+        },
+        {
+          "logo": "http://img1.ujipin.com/e87090ba9f0739680ab77b68219462a0?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=6SEac7ltJlllOBGkD0PMd4S0xtA=&format=JPEG",
+          "name": "Jiggle&Giggle 咯咯笑",
+          "tag_id": "e8b661a626d14d05a4ed41fbe234da99"
+        },
+        {
+          "logo": "http://img1.ujipin.com/0effd943bdc5c33039e883e2d3d53d0d?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=eu2DegJJXu7R/e7CGDsRcFh93Ag=&format=JPEG",
+          "name": "kid basix安思培",
+          "tag_id": "2518da6cc4ba4f0e950f2d5d539644b9"
+        },
+        {
+          "logo": "http://img1.ujipin.com/5c8d985ea4911f33b61a558d34db5492?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=6LqZkO6Cxq7Lil/4h4JrUa7LTAE=&format=JPEG",
+          "name": "Kinderspel",
+          "tag_id": "206a68eadab34d23866515303614a4bd"
+        },
+        {
+          "logo": "http://img1.ujipin.com/0bea86a88cc31bc46ab81b616b7807e6?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=miqNqhV2jCdy9yX3T5gPmk7ME6s=&format=JPEG",
+          "name": "La Millou拉米洛",
+          "tag_id": "0e61da15d1cc4b8da51a2a9f6f0801db"
+        },
+        {
+          "logo": "http://img1.ujipin.com/721ab1120651f8f049ebe5cc75958fef?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=y7sG1Kt9TKyFH8URe2m6YLyfQ6Q=&format=JPEG",
+          "name": "LittleLife",
+          "tag_id": "df509d2bb3f949c5878ec51b4861b7b0"
+        },
+        {
+          "logo": "http://img1.ujipin.com/42e078de1aecc8b81589df60a6dd965d?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=b3MmXQtc+U2qFDOpKbS1cpeNVk4=&format=JPEG",
+          "name": "LITTLE TREE小树苗",
+          "tag_id": "4044349a9b034f7eb7108676f40efa42"
+        },
+        {
+          "logo": "http://img1.ujipin.com/e740f8136e38f7289cc8d68cd529b602?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=b/PaHzcTGoNF+v4qYuxZPp8tSh0=&format=JPEG",
+          "name": "Luvali",
+          "tag_id": "0732ac6813fb4791baba7590a5ff6bce"
+        },
+        {
+          "logo": "http://img1.ujipin.com/565eb0e49b105cf0b72409ecc763cecc?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=vmYX0IV7Azh/XagLwLstZvZUSg4=&format=JPEG",
+          "name": "妙思乐Mustela",
+          "tag_id": "7dfde6e9fc9a443bba0f1401eb9ab7f2"
+        },
+        {
+          "logo": "http://img1.ujipin.com/36ee5c9b3f8542c1610674921fe0b70b?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=T3Si6jj9n8ljjttA0txOb9Bsm2Q=&format=JPEG",
+          "name": "Miller Goodman",
+          "tag_id": "ed053e9dc11c4f14b6f5f2b8f9b6251f"
+        },
+        {
+          "logo": "http://img1.ujipin.com/a80b7a1ad8cb60f11e3db12cbf9ea49c?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=WZM8mFN+102+BPK2Dt0F5Vpv8HM=&format=JPEG",
+          "name": "Milo&Gabby",
+          "tag_id": "6242a70147414562a47778977703a660"
+        },
+        {
+          "logo": "http://img1.ujipin.com/12049997d39faac2ff5b661350ad3d46?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=/lG94O1VLfu9xsNTFm6+cMH+weQ=&format=JPEG",
+          "name": "Organickidz欧可滋",
+          "tag_id": "2c87473559c44758a6444e12f8b9782c"
+        },
+        {
+          "logo": "http://img1.ujipin.com/47c562aa6e8a1b3893fe86e8a191db25?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=8ufVSYLam8Nqo2GabVtwX7Dzkhk=&format=JPEG",
+          "name": "Tot",
+          "tag_id": "469316d4aadb4ff6988e3db0b75e6ea8"
+        },
+        {
+          "logo": "http://img1.ujipin.com/88bf7609af53843f67ded0faa813bf75?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=jrCdErVeFXXODK/r+UCRBbl727w=&format=JPEG",
+          "name": "Pear head",
+          "tag_id": "daa3ee9673f840c4b0833439f3140762"
+        },
+        {
+          "logo": "http://img1.ujipin.com/9ba380836433f413eb0ca4331f42a1f8?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=QaBW/TVoMoPGsY4kR9qvJbY/XLw=&format=JPEG",
+          "name": "Pettyflen 帕蒂芬莱",
+          "tag_id": "b95c63e0d48e464da0584b2388c7188b"
+        },
+        {
+          "logo": "http://img1.ujipin.com/d7fe3c56d7399ce0dcf4bfe38aaa3dcf?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=NTJTfTw/X1i4N4IvY1M1dPbJ69Q=&format=JPEG",
+          "name": "Planet Kid 普兰昵",
+          "tag_id": "f25c0ffada74489984c79fda81627e6f"
+        },
+        {
+          "logo": "http://img1.ujipin.com/6c56e6580994c5cdc7d2b4b08f86355b?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=YMk+eYi+FOAufjKNu3uokkR8iw8=&format=JPEG",
+          "name": "Playtex",
+          "tag_id": "572b8761b9fb48dc9b9897c0cf9fb6c6"
+        },
+        {
+          "logo": "http://img1.ujipin.com/31844db9ef5cbb9dbeedfd75897f1b72?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=GCzUmxHuUaAofPjhNGHQdkTnRUk=&format=JPEG",
+          "name": "SEVI赛维",
+          "tag_id": "ebdc4436759e4dc29d24268d90ff0943"
+        },
+        {
+          "logo": "http://img1.ujipin.com/8c7831e68e878e88990731b2d9691dd0?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=KQ/Xg5rXSQjmK9yJR3UbQr9X6R0=&format=JPEG",
+          "name": "SKIP HOP",
+          "tag_id": "94a09d90640c4aec9305df4ab4227a10"
+        },
+        {
+          "logo": "http://img1.ujipin.com/f48cc5dbc485f0f6c45bc245473fce9f?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=2fji1L7XV/XIAoEXzrQc9InvBo8=&format=JPEG",
+          "name": "Stephen Joseph",
+          "tag_id": "db0920b7402f4301804f24def6504ad0"
+        },
+        {
+          "logo": "http://img1.ujipin.com/1b6a69a59d3cbaa71a1e046e9c6167df?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=piYjzFtDg3h2fdPFLEKdWs07pGQ=&format=JPEG",
+          "name": "Sterntaler思丹乐",
+          "tag_id": "e0f1c1a916dc41adb50f15309135c58e"
+        },
+        {
+          "logo": "http://img1.ujipin.com/af0ee8ae1c41c404da9905781d509e5b?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=EAevk0abvLyLCgaiu5zfC6sGQTk=&format=JPEG",
+          "name": "suavinex苏维妮",
+          "tag_id": "3304598c5eae4bc3aa9cff753a66040e"
+        },
+        {
+          "logo": "http://img1.ujipin.com/be7bf2a9638b0e58866dd23150edd1b3?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=opQDAu51Ya2FCCVnk6itUZEGdyI=&format=JPEG",
+          "name": "the gro company",
+          "tag_id": "42faeb8a917945fe824ccff285eb966e"
+        },
+        {
+          "logo": "http://img1.ujipin.com/db1f944da77fc5e7eb16445e51bd68f2?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=KH+niSO6tMB3Ztu8FZT+TRUbuWA=&format=JPEG",
+          "name": "Think Baby",
+          "tag_id": "acdf51201acf403c8cead5bb02988c9c"
+        },
+        {
+          "logo": "http://img1.ujipin.com/a69e8f36314bf7da3a914becb3e77e76?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=0v6+RjAFa4nl54Pj8d02Dl4nSgo=&format=JPEG",
+          "name": "Tortle",
+          "tag_id": "ded2e305ef3d44cdbee39a8b26a96817"
+        },
+        {
+          "logo": "http://img1.ujipin.com/43a759e326e4fc234826004c2c7977e5?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=uzSaECSnfHrsmBWaFC5IOriqxsg=&format=JPEG",
+          "name": "Trunki",
+          "tag_id": "7817cf371c964d2899034ce07b2c7e27"
+        },
+        {
+          "logo": "http://img1.ujipin.com/e669b4eed4d277e77e6de06d8c60f205?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=khfOzUVBCSos49w6pjW7+L4acj8=&format=JPEG",
+          "name": "UNCLE MILTON米尔顿叔叔",
+          "tag_id": "cb190ea0927146a5803133d886824574"
+        },
+        {
+          "logo": "http://img1.ujipin.com/075f998baa00082493c2f19e4c088a7e?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499582956&Signature=XgE9M7RcNN/tVNX5pOJfM+JAWSA=&format=JPEG",
+          "name": "Zoobies",
+          "tag_id": "b751e37316af4d958fb3b8210266ed3b"
+        }
+      ],
+      "name": "宝贝成长"
+    }
+  ],
+  "time": 1498978156
+}

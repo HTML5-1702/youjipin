@@ -1,0 +1,78 @@
+{
+  "status_code": 200,
+  "message": "success",
+  "data": [
+    {
+      "cat_id": 7,
+      "brand_list": [
+        {
+          "logo": "http://img1.ujipin.com/01160d379f4f525bb556658b8eb4a42e?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=G38s/p2gljQ+qsdf+R+d7hB3pL0=&format=JPEG",
+          "name": "Amylovespet",
+          "tag_id": "d0eafd30d23a4014aaed27577d0d22a9"
+        },
+        {
+          "logo": "http://img1.ujipin.com/0cc1b1e11245730faf5ea5be787b0426?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=ClQ7PgAOKYxvIwkBMIb4H3GJ6hc=&format=JPEG",
+          "name": "Burt's Bees Pets",
+          "tag_id": "e4df451338bc442285d1b6cbd47cecdf"
+        },
+        {
+          "logo": "http://img1.ujipin.com/8b23c152474108fd440a0e3b341fcc01?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=uP63mw0ODdNGnkE5OwVVc/LO+U8=&format=JPEG",
+          "name": "Rubber brush",
+          "tag_id": "ccf5f707414e4de4b74473362e66582c"
+        },
+        {
+          "logo": "http://img1.ujipin.com/f46da2fecd1f3afe809db9caaed70bd5?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=TwFSYSDXOmJOJmI1QNhEz+BW4Qo=&format=JPEG",
+          "name": "Chuckit！",
+          "tag_id": "5708499f266d429b934cb9ad8d6a9b0f"
+        },
+        {
+          "logo": "http://img1.ujipin.com/8217e7dd0c3c54ae66fd394bc74c1c78?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=JE1l4YKv5TvIvVtt+hbGbwRAuQ4=&format=JPEG",
+          "name": "Dexas",
+          "tag_id": "03d2477b60d84dffa6fd498befceb31a"
+        },
+        {
+          "logo": "http://img1.ujipin.com/b012a933001b3e92b6581bc36053cdfa?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=/pp2Rh42tTu5OmIq38P8AhXdNic=&format=JPEG",
+          "name": "Doggyman多格漫",
+          "tag_id": "88657b36f5ea45b6a1b4608cca66e814"
+        },
+        {
+          "logo": "http://img1.ujipin.com/3b61bd506eb8d0bf7958ae7e23fd97cb?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=OaCaf2Mhz2YsVeE16XNFneMF2lo=&format=JPEG",
+          "name": "Life",
+          "tag_id": "4890b0ec1b8c4787aa5b5210db12d55c"
+        },
+        {
+          "logo": "http://img1.ujipin.com/a3a7c33873b2480ccf84445dcaadaaca?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=cmLsMBgvVF/DXK4egKser8aEWMs=&format=JPEG",
+          "name": "Made of organics for dog",
+          "tag_id": "f9aaa5c7666442a7a8f0b030d9f8f8b4"
+        },
+        {
+          "logo": "http://img1.ujipin.com/4cdd8ab35de40698c28d84fd24928ba0?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=o7NTNUHBepxglOwxEGxIpKducC0=&format=JPEG",
+          "name": "mind up",
+          "tag_id": "401c3fd8bd6b46389a12fbf1c5a2d9f3"
+        },
+        {
+          "logo": "http://img1.ujipin.com/eafa01fcdf5ddd28bd661263775178cb?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=L3tU54XMLUFdVpymMLq1tmhw7B0=&format=JPEG",
+          "name": "Nylabone",
+          "tag_id": "6f76e0d6241a42948e29c589234ec108"
+        },
+        {
+          "logo": "http://img1.ujipin.com/f59e6f5306d09a475dc48af3675a731d?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=PVpAU7N3q2uh82SoKsBxb6+gfvU=&format=JPEG",
+          "name": "Touchdog",
+          "tag_id": "96cb58e93a4743a48230abd03f0206f6"
+        },
+        {
+          "logo": "http://img1.ujipin.com/ccd0b6d9240c9b834453992bb10049c0?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=Q0ObPFZmEIgPm967alkhru1bupA=&format=JPEG",
+          "name": "Vetericyn",
+          "tag_id": "2c83f958acb94906a1689ea119f2c50c"
+        },
+        {
+          "logo": "http://img1.ujipin.com/585d0e317fe2774a895720fae41c155b?UCloudPublicKey=ucloudjiawoyong@ujipin.cn14466281690001077321672&Expires=1499583079&Signature=kXj9M/quYti795GlhYsTxNnEuCU=&format=JPEG",
+          "name": "小佩",
+          "tag_id": "9edef77599eb442599eac795586c4745"
+        }
+      ],
+      "name": "宠物用品"
+    }
+  ],
+  "time": 1498978279
+}

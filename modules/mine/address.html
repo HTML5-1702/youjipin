@@ -1,0 +1,48 @@
+<div class="address_list" ng-show="add_show">
+    <ul>
+    	<li ng-repeat="i in add_data"><p class="n_m">{{i.add_name}}<span>{{i.add_mobile}}</span></p><p class="addr">{{i.add_ress}}</p></li>
+    </ul>
+    <div class="sub_address" style="display: block;"><a href="javascript:;" ng-click="add_fn()">添加新地址</a></div>
+</div>
+<div class="edit_address" ng-show="add2_show">
+	<form name="addForm" novalidate>
+	    <div class="info">
+	        <ul>
+	            <li>
+	            	<input type="text" name="add_name" placeholder="收件人姓名" 
+	            		ng-model="$parent.add_name" required ng-pattern="/^[a-zA-Z\u4e00-\u9fa5]{2,4}$/">
+	            	<i class="login_true" ng-show="addForm.add_name.$invalid && addForm.add_name.$dirty"></i>
+	            </li>
+	            <li><input type="text" placeholder="身份证号（购买跨境商品需填写此项）"></li>
+	            <li><input type="tel" name="add_mobile" placeholder="手机号码"
+	            	ng-model="$parent.add_mobile" required ng-pattern="/^1[3|4|5|7|8][0-9]{9}$/">
+	            	<i class="login_true" ng-show="addForm.add_mobile.$invalid && addForm.add_mobile.$dirty"></i>
+            	</li>
+	            <li><input type="text" class="region" readonly="readonly" placeholder="所在区域" ng-click="add_fn2()" value="{{add_region}}"></li>
+	            <li><input type="text" name="add_ress" placeholder="详细地址" 
+	            		ng-model="$parent.add_ress" required ng-pattern="/^[a-zA-Z0-9\u4e00-\u9fa5]{2,50}$/">
+	            	<i class="login_true" ng-show="addForm.add_ress.$invalid && addForm.add_ress.$dirty"></i>
+	            </li>
+	        </ul>
+	    </div>
+	    <div ng-class="{true: 'set_def default_yes',false: 'set_def'}[isDefault]" ng-click="isDefault = !isDefault">设置为默认地址</div>
+	    <div class="sub_address" style="display: block;"><a href="javascript:;" ng-click="add_btn()">确认</a></div>
+	</form>
+</div>
+<div class="regions" ng-show="idRegions">
+	<div class="province" ng-show="idProvince">
+		<ul>
+			<li ng-repeat="i in province_data" ng-click="province($index)">{{i.name}}</li>
+		</ul>
+	</div>
+	<div class="city" ng-show="idCity">
+		<ul>
+			<li ng-repeat="i in city_data" ng-click="city($index)">{{i.name}}</li>
+		</ul>
+	</div>
+	<div class="county" ng-show="idCounty">
+		<ul>
+			<li ng-repeat="i in county_data" ng-click="county($index)">{{i.name}}</li>
+		</ul>
+	</div>
+</div>

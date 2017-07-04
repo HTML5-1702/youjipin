@@ -1,0 +1,5 @@
+<ul class="brandList-list" ng-controller="brandSkip">
+	<li ng-repeat="i in data">
+		<a ui-sref="brand" tag_id="{{i.tag_id}}" ng-click="brandSkip(i.tag_id)" href="">{{i.name}}</a>
+	</li>
+</ul>

@@ -1,0 +1,37 @@
+<div class="login_box">
+	<a href="javascript:history.go(-1);" class="back"></a>
+	<div class="login-items">
+		<form name="registerForm" novalidate>
+			<div class="items overflowHide">
+	            <span class="icon"><em></em></span>
+	            <input name="user" type="text" class="input-text login-mobile" placeholder="请输入账号"
+	            	ng-model="user" maxlength="20" required ng-pattern="/^[a-zA-Z0-9\u4e00-\u9fa5]{3,20}$/" ng-blur="name_repeat()">
+	            <i class="login_true" ng-show="registerForm.user.$invalid && registerForm.user.$dirty || nameRepeat"></i>
+	        </div>
+	        <div class="items overflowHide">
+	            <span class="icon icon-pass"><em></em></span>
+	            <input name="password" type="password" class="input-text login-passW" placeholder="请输入密码"
+	            	ng-model="password" maxlength="20" required ng-pattern="/^[a-zA-Z0-9]{3,20}$/">
+	            <i class="login_true" ng-show="registerForm.password.$invalid && registerForm.password.$dirty"></i>
+	        </div>
+	        <div class="items overflowHide">
+	            <span class="icon icon-pass"><em></em></span>
+	            <input name="password2" type="password" class="input-text login-passW" placeholder="请输入确认密码" 
+	            	ng-model="password2" required>
+	            <i class="login_true" ng-show="password!=password2 && registerForm.password2.$dirty"></i>
+	        </div>
+	        <div class="items overflowHide">
+	            <span class="icon icon-phone"><em></em></span>
+	            <input name="vcode" type="text" class="input-text login-vcode" placeholder="请输入验证码"
+	            	ng-model="vcode" required ng-keyup="VFcode()">
+	            <i id="code" class="nocode">验证码</i>
+	            <i class="login_true ts_code" ng-show="ts_code"></i>
+	        </div>
+	        <input id="check" class="login-btn login-btn-2" type="submit" value="立即注册" ng-click="register()">
+        </form>
+        <div class="tips-phone">
+            <p>未注册的手机号，登录时将自动注册，登录即表示您同意</p>
+            <p><a href="javascript:;">《优集品用户协议》</a></p>
+        </div>
+	</div>
+</div>

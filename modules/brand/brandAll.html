@@ -1,0 +1,17 @@
+<div class="brandAll">
+	<ul class="brandAll-list" ng-controller="brandSkip">
+		<li ng-repeat="i in data" id="{{i.group_name}}">
+			<div>{{i.group_name}}</div>
+			<ul>
+				<li ng-repeat="j in i.group_list">
+					<a ui-sref="brand" tag_id="{{j.tag_id}}" ng-click="brandSkip(j.tag_id)" href="">{{j.name}}</a>
+				</li>
+			</ul>
+		</li>
+	</ul>	
+	<ul class="brandAll-nav">
+		<li ng-repeat="i in data">
+			<a href="" ng-click="skip(i.group_name)">{{i.group_name}}</a>
+		</li>
+	</ul>
+</div>

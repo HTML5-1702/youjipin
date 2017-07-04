@@ -1,1 +1,25 @@
-<p>search{{name}}</p>
+<div class="search-t">
+	<div class="input-box">
+		<a ui-sref="search" href="">
+			<input ng-change="textC()" ng-model="searchtext" class="searchtext" type="text" placeholder="请输入搜索内容"/>
+		</a>	
+	</div>
+	<div class="clear-search-layer">
+		<a href="javascript:history.go(-1);">
+			取消
+		</a>
+	</div>
+	<div class="sub-search-layer" ng-controller="goodCtrl">
+		<a ui-sref="searchlist" ng-click="goodCtrl(searchtext)" href=""> 
+			确定
+		</a>
+	</div>
+</div>
+<div class="return-list" ng-controller="goodCtrl">
+	<p>大家都在搜</p>
+	<ul>
+		<li ng-repeat="i in data">
+			<a ui-sref="searchlist" ng-click="goodCtrl(i)" href="">{{i}}</a>
+		</li>
+	</ul>
+</div>
