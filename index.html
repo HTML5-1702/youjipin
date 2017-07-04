@@ -15,13 +15,6 @@
 		<script src="modules/search/search.js"></script>
 		<script src="modules/mine/mine.js"></script>
 		<script src="modules/cart/cart.js"></script>
-<<<<<<< HEAD
-		<script src="modules/cart/detail/detail.js" type="text/javascript" charset="utf-8"></script>
-		<script src="modules/cart/detail/comment/comment.js"></script>
-		<script src="modules/cart/detail/shoppingCar/shoppingCar.js"></script>
-		<script type="text/javascript" src="js/libs/swiper-3.4.2.min.js"></script>
-		<link rel="stylesheet" href="js/libs/swiper-3.4.2.min.css" />
-=======
 		<script src="modules/home/slide1/slide1.js"></script>
 		<script src="modules/home/silde2/slide2.js"></script>
 		<script src="modules/home/slide3/slide3.js"></script>
@@ -30,18 +23,20 @@
 		<script src="modules/home/welfare/welfare.js"></script>
 		<script src="modules/brandList/brandList.js"></script>
 		<script src="modules/brand/brand.js"></script>
->>>>>>> f673d431a156da2e0b8dfc2ccdc8487c147d133c
+		<script src="modules/cart/detail/detail.js"></script>
+		<script src="modules/cart/detail/comment/comment.js"></script>
+		<script src="modules/cart/detail/shoppingCar/shoppingCar.js"></script>
 		<link rel="stylesheet" type="text/css" href="reset.css"/>
 		<link rel="stylesheet" type="text/css" href="js/libs/swiper.min.css"/>
 		<link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 	</head>
-	<boudy ng-app="ujipin">
+	<body ng-app="ujipin">
 	    <div id="tab" class="overflowHide searchHide">
 	    	<div class="tab-box">
 		    	<div class="logo"><a ui-sref="home" href=""><img src="img/logo_t.png"/></a></div>
 		        <ul class="overflowHide">
 		            <li class="search"><p><img src="img/search.png"/></p></li>
-		            <li ui-sref="mine"><a href=""><img src="img/mine.png"/></a></li>
+		            <li ui-sref="mine.main"><a href=""><img src="img/mine.png"/></a></li>
 		            <li ui-sref="cart"><a href=""><img src="img/cart.png"/></a></li>
 		        </ul>
 		    </div>
@@ -71,5 +66,5 @@
 		    <div class="shade"></div>
 	    </div>
 	    <div id="content" ui-view></div>
-	</boudy>
+	</body>
 </html>

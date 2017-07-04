@@ -15,9 +15,9 @@ html{font-size:100px;}
     clear: both;
 }
 .overflowHide{overflow: hidden;}
-#tab{width: 100%; height: 0.56rem; background: #31313C; padding-left: .16rem;}
+#tab{width: 100%; height: 0.56rem; background: #31313C;}
 #tab>div{width: 100%;height: .56rem;position: fixed;}
-.tab-box{top: 0;left: 0;z-index: 10;}
+.tab-box{top: 0;left: 0;z-index: 10; padding-left: .16rem;}
 #tab .logo{width: .56rem; height: .2rem; margin-top: .2rem; float: left;}
 #tab>div>ul{width: 1.74rem; height: .56rem; float: right;}
 #tab>div>ul>li{width: .46rem; height: .56rem; margin-right: .12rem; float: left;}
