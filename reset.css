@@ -16,13 +16,14 @@ html{font-size:100px;}
 }
 .overflowHide{overflow: hidden;}
 #tab{width: 100%; height: 0.56rem; background: #31313C; padding-left: .16rem;}
-#tab>div{width: 100%;height: 100%;}
+#tab>div{width: 100%;height: .56rem;position: fixed;}
+.tab-box{top: 0;left: 0;z-index: 10;}
 #tab .logo{width: .56rem; height: .2rem; margin-top: .2rem; float: left;}
 #tab>div>ul{width: 1.74rem; height: .56rem; float: right;}
 #tab>div>ul>li{width: .46rem; height: .56rem; margin-right: .12rem; float: left;}
 #tab>div>ul>li>a,#tab>div>ul>li>p{display: block; height: .56rem; padding: .15rem .08rem 0;}
 /*搜索框*/
-#tab>.search-box{background: white;position: absolute;top: .56rem;left: 0;z-index: 10;width: 100%;font-size: .12rem;height: 3.14rem;overflow: auto;}
+#tab>.search-box{background: white;top: .56rem;left: 0;z-index: 10;width: 100%;font-size: .12rem;height: 3.14rem;overflow: auto;}
 .search-t{width: 100%;height: .48rem;background: white;}
 .search-t>div{float: left;height: .48rem;line-height: .48rem;width: .5rem;text-align: center;}
 .search-t>.input-box{padding: 12px 0 0 12px;width: 2.7rem;}
@@ -38,12 +39,12 @@ html{font-size:100px;}
 .pp>p{background: url(img/icon-right.jpg) no-repeat 2.9rem .1rem;}
 .pp>p>a{display: block;width: 100%;height: 100%;}
 
-.shade{background: rgba(0,0,0,.6);position: fixed;top: .56rem;left: 0;width: 100%;height: 100%;z-index: 5;}
+.shade{background: rgba(0,0,0,.6);top: .56rem;left: 0;width: 100%;height: 100%;z-index: 5;}
 
 .searchHide>.search-box,.searchHide>.shade{display: none;}
 
 
-#content{width: 100%; background: #eee;}
+#content{width: 100%; background: #eee;overflow: auto;}
 
 /*商品列表*/
 .goods_list{padding-right: .05rem;width: 100%;}
