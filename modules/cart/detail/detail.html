@@ -1,0 +1,92 @@
+<div class="box">
+	<div class="swiper-container">
+	    <div class="swiper-wrapper">
+	        <div class="swiper-slide" ng-repeat="x in mydata.splash">
+	        	<a href="javascript:;"><img src="{{x}}"/></a>
+	        </div>
+	    </div>
+	    <!-- 如果需要分页器 -->
+	    <div class="swiper-pagination"></div>
+	</div>
+<div class="pro_title"><h1>{{mydata.goods_name}}</h1></div>
+<div class="price">
+	<span>¥{{mydata.goods_price}}</span><span 	class="market_price">¥{{mydata.market_price}}</span><span class="sale" >已售{{mydata.sold_number}}件</span>
+	
+</div>
+
+<!--<div class="option">
+	<span>{{mydata2}}</span>
+</div>-->
+<div class="rule">
+	<ol><li ng-repeat='x in mydata.services'>{{x.desc}}</li></ol>
+</div>
+<div class="clearfix"></div>
+<!---------这里有一级路由-->
+<div class="pro_content">
+	<span>{{mydata.default_selected_product}} <span>></span></span>
+</div>
+<a href="javascript:;" class="brank">
+	<div class="brank_left">
+		<img src="{{mydata.brand.logo}}" alt="" />
+	</div>
+	<div class="brank_right">
+		<p>{{mydata.brand.name}}</p>
+		<p>
+			<img src="img/icon01.png" alt="" /><span>{{mydata.brand.country}}</span><span class="suoxie">{{mydata.brand.position }}</span>
+		</p>
+	</div>
+</a>
+<!--商品属性-->
+<div class="pro_attr">
+	<div class="name">商品属性</div>
+	<table>
+		<tr ng-repeat="(key, value) in mydata.attributes">
+			<td>{{key}}</td><td>{{value}}</td>
+		</tr>
+	</table>
+</div>
+
+<!--用户评价-->
+<div class="user">
+	<ul>
+		<li>用户评价...</li>
+		<li>{{Data[0].user_name }}</li>
+		<li>{{Data[0].content}}</li>
+		<li><span></span>{{Data[0].reply[0].content}}</li>
+	</ul>
+</div>
+<div class="more" ui-sref="comment" ng-click="toProducer(no2producerId)">查看更多评论</div>
+</div>
+<!--订单详情页-->
+<div class="bottom">
+	<p class="price_count">
+		<span>总价</span><span>¥{{mydata.goods_price}}</span>
+	</p>
+	<div class="buyBtn">立即购买</div>
+</div>
+<div class="order">
+	<div class="content">
+		<div class="top">
+			<div class="block_one">
+				<img src="{{mydata.thumbnail}}"/>
+				<div>
+					<h3>{{mydata.goods_name }}</h3>
+					<p>¥{{mydata.goods_price }}</p>
+				</div>
+			</div>
+			<div class="block_two" ng-repeat=" (key, value) in mydata.products.properties">
+				<p >{{key}}</p>
+				<div class="items">
+					<label ng-repeat="x in value" ng-class="{'over':mydata.products.list[$index].stock == 0}" ng-click="choose($index,x)">{{x}}</label>
+				</div>
+			</div>
+			<div class="count">
+				<p>数量</p>
+				<button class="reduceBtn" ng-click='reduce()'>-</button><input type="" name="" id="" value="1" /><button class="addBtn"  ng-click='add()'>+</button>
+		    </div>
+			<div class="close">X</div>
+		</div>
+		<div class="joinBtn" ng-click="addTo()" ui-sref="shoppingCar">加入购物袋</div>
+	</div>
+</div>
+

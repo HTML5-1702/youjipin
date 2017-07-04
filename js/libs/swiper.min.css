@@ -182,7 +182,7 @@
 
 .swiper-pagination {
 	position: absolute;
-	text-align: right;
+	text-align: center;
 	-webkit-transition: .3s;
 	-moz-transition: .3s;
 	-o-transition: .3s;
@@ -203,8 +203,8 @@
 	height: 8px;
 	display: inline-block;
 	border-radius: 100%;
-	background: #000;
-	opacity: .2
+	background: red;
+	opacity: .5
 }
 
 button.swiper-pagination-bullet {
@@ -228,7 +228,7 @@ button.swiper-pagination-bullet {
 
 .swiper-pagination-bullet-active {
 	opacity: 1;
-	background: white;
+	background: gray;
 }
 
 .swiper-pagination-white .swiper-pagination-bullet-active {

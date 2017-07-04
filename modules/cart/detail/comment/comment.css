@@ -1,0 +1,7 @@
+.box{overflow-y: auto;}
+.user{background: #fff;margin-top: .10rem;padding: 0.1rem;} 
+.user>ul>li:nth-child(1){font-size: .13rem;line-height: .18rem;margin-top: .2rem;margin-left: 0.1rem;}  
+.user>ul>li:nth-child(2){font-size: .13rem;line-height: .18rem;margin-top: .1rem;margin-left: 0.1rem;} 
+.user>ul>li:nth-child(3)>span{display: block; width: 0;height: 0;border-left: 0.08rem solid transparent;
+border-right:0.08rem solid transparent;border-bottom: 0.08rem solid #F8F8F8;position: absolute;left: 0.2rem;top: -0.08rem;} 
+.user>ul>li:nth-child(3){font-size: .13rem;line-height: .18rem;margin-top: .1rem;display: block;    padding: 12px;margin-top: 17px;background: #F8F8F8;line-height: 18px;position: relative;}  

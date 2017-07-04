@@ -1,0 +1,30 @@
+<div class="item">
+	<ul>
+		<li ng-repeat="x in data">
+			<div class="item_left"></div>
+			<div class="item_middle"><img src="{{x.thumbnail }}" alt="" /></div>
+			<div class="item_right">
+				<p>{{x.short_name }}</p>
+				<p>{{x.color}}</p>
+				<div> 
+					<span class="danjia">¥{{x.goods_price}}</span> 
+					<div class="item_btn"><button class="reduceBtn" ng-click='reduce(x.list,x.num,x)'>-</button><input type="" name="" id="" value="{{x.num}}" /><button class="addBtn"  ng-click='add(x.list,x.num,x)'>+</button></div>
+				</div>
+			</div>
+			<div class="delBtn" ng-click="del(x)">删除</div>
+		</li>
+	</ul>
+</div>
+<div class="footer">
+	<div class="footer_left">
+		<div class="wc" ng-click="delAll()">
+			<span></span>全部清除
+		</div>
+		<div class="middle">
+			<p>合计: <span>¥{{totlePrice}}</span></p>
+			<p>(不含运费)</p>
+		</div>
+	</div>
+	
+	<div class="payBtn">去结算</div>
+</div>

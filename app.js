@@ -1,4 +1,4 @@
-angular.module('ujipin',['ui.router','angularCSS','homeModule','searchModule','mineModule','cartModule'])
+angular.module('ujipin',['ui.router','angularCSS','homeModule','searchModule','mineModule','cartModule','detailModule','commentModule','shoppingCarModule'])
 .config(function ($stateProvider, $urlRouterProvider) {
  	$urlRouterProvider.otherwise('/home');
  	

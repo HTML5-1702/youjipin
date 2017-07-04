@@ -1,1 +1,24 @@
-<p>cart{{name}}</p>
+<div class="shopping-list">
+	<div class="no-goods">
+		<img src="img/cart_bj.png" alt="" />
+		<div class="text">哎ma，购物袋是空的！</div>
+		<a href="javascript:;">去逛逛</a>
+	</div>
+</div>
+<div class="randomPro">
+		<div class="t">热卖推荐</div>
+		<div class="swiper-container">
+			    <div class="swiper-wrapper">
+			        <div class="swiper-slide"  ng-repeat='x in newData' style="width: 1.2rem; margin-right: 0.08rem;" ui-sref="detail" ng-click="toProducer(x.goods_id)">
+			        	<a href="javascript:;">
+			        		<img src="{{x.thumbnail}}"/>
+			        		<p class="goods_name">{{x.goods_name }}</p>
+			        		<p class="goods_price">¥{{x.goods_price}}</p>
+			        		<p class="market_price">¥{{x.market_price}}</p>
+			        	</a>
+			        </div>
+			    </div>
+			</div>
+			
+</div>
+	

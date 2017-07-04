@@ -1,0 +1,10 @@
+<div class="box">
+	<div class="user" ng-repeat='x in Data'>
+		<ul>
+			<li>{{x.user_name}}</li>
+			<li>{{x.content}}</li>
+			<li ng-if="x.reply[0].content"><span></span >{{x.reply[0].content}}</li>
+		</ul>
+	</div>
+</div>
+
