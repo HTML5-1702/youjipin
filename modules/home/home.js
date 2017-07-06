@@ -38,6 +38,7 @@ angular.module('homeModule',['ui.router'])
        $scope.startshow =res.data.data.activity_list[4];
        $scope.startshows = res.data.data.activity_list[5];
        $scope.object1=res.data.data.tag_list;
+       console.log($scope.object1)
    })
 
 }]);

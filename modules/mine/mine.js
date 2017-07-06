@@ -4,7 +4,6 @@ angular.module('mineModule',['ui.router'])
         .state('mine', {
             url: '/mine',
             templateUrl: 'modules/mine/mine.html',
-            controller:'mineCtrl',
             css:'modules/mine/mine.css'
         })
         .state("mine.login", {
@@ -22,6 +21,7 @@ angular.module('mineModule',['ui.router'])
         .state("mine.main", {
 			url:'/main',
             templateUrl: 'modules/mine/main.html',
+            controller:'mineCtrl',
             css:'modules/mine/mine.css'
         })
         .state("mine.address",{
